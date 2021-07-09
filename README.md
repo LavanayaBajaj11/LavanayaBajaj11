@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @LavanayaBajaj11
+- 👀 I’m interested in learning something new every day ...
+- 🌱 I’m currently learning front end development skills and AI development fundamentals for future projects...
+- 📫 How to reach me; LinkedIn profile:https://www.linkedin.com/in/lavanaya-bajaj-6454171b9  ...
+
+<!---
+LavanayaBajaj11/LavanayaBajaj11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
